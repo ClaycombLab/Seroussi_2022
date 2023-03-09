@@ -1,15 +1,19 @@
 # A Comprehensive Survey of C. elegans Argonaute Proteins Reveals Organism-wide Gene Regulatory Networks and Functions
 
-This repository holds scripts to perform small RNA alignment and counting as described in Seroussi et. al. 2022.
+This repository holds scripts to perform small RNA alignment and counting as described in Seroussi et. al. 2023.
+
+Uri Seroussi, Andrew Lugowski, Lina Wadi, Robert X Lao, Alexandra R Willis, Winnie Zhao, Adam E Sundby, Amanda G Charlesworth, Aaron W Reinke, Julie M Claycomb (2023) A comprehensive survey of C. elegans argonaute proteins reveals organism-wide gene regulatory networks and functions eLife 12:e83853
+
+https://doi.org/10.7554/eLife.83853
 
 ## Summary of scripts
 
 ### The pipeline
 
-If you wish to follow the exact same process as described in Seroussi et. al. 2022, you can follow the instruction in main_pipline.sh
+If you wish to follow the exact same process as described in Seroussi et. al. 2023, you can follow the instruction in main_pipline.sh
 
 ```
-# QA and Counting of reads against the C. elegans genome as in Seroussi et. al. 2022
+# QA and Counting of reads against the C. elegans genome as in Seroussi et. al. 2023
 
 # Starting point: current working directory should hold fastq.gz files
 
